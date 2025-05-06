@@ -11,5 +11,7 @@ stockbroker a 2 percent commission for the transaction. Write a program that cal
 and displays the following:
 
 • The amount paid for the stock alone (without the commission).
+
 • The amount of the commission.
+
 • The total amount paid (for the stock plus the commission).
